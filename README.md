@@ -29,5 +29,13 @@
 </div>
 
 
+##
+
+![Snake animation](https://github.com/Beatrizslb/Beatrizslb/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
 
 
