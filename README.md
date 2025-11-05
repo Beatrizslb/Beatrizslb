@@ -31,7 +31,7 @@
 
 ##
 
-![Snake animation](https://github.com/Beatrizslb/Beatrizslb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Beatrizslb/Beatrizslb/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
