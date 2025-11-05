@@ -13,7 +13,7 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-       - name: Gerar a animação da cobrinha 🐍
+      - name: Gerar a animação da cobrinha 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: Beatrizslb
