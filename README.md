@@ -1,11 +1,31 @@
 ## Olá! Eu sou Ana Beatriz 💻
 
-<p align="center">
-  <a href="https://github.com/Beatrizslb">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Beatrizslb&show_icons=true&theme=dracula&rank_icon=github"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizslb&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</p>
+<div align="center">
+
+<picture>
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Beatrizslb&theme=dracula&bg_color=00000000&border_radius=12&border_color=bd93f9&include_all_commits=true&show_icons=true&rank_icon=github&hide_title=true"
+    alt="Beatrizslb's GitHub Stats"
+  />
+</picture>
+
+<picture>
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Beatrizslb&theme=dracula&bg_color=00000000&border_radius=12&border_color=bd93f9"
+    alt="Beatrizslb's GitHub Streak"
+  />
+</picture>
+
+<picture>
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beatrizslb&layout=compact&langs_count=16&theme=dracula&bg_color=00000000&border_radius=12&border_color=bd93f9"
+      alt="Beatrizslb's Top Languages"
+  />
+</picture>
+</div>
 
 <table align="center">
   <tr>
