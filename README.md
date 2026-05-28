@@ -49,7 +49,7 @@
   <a href="https://discord.gg/UxyfByjC" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
-  <a href="mailto:beatriz.brejocruz@gmail.com">
+  <a href="mailto:beatrizaslb@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/beatriz-linhares-a4587228b/" target="_blank">
